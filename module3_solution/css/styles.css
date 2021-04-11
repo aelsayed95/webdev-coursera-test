@@ -1,5 +1,29 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 /* navbar  */
 
 .navbar-brand {
     padding: 5px;
+}
+
+/* main content */
+
+h1 {
+    margin: 30px 10px 50px 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.8em;
+}
+
+.menu-item {
+    background-color: rgb(160, 158, 158);
+    padding: 10px;
+}
+
+.col-md-4, .col-sm-6, .col-xs-12 {
+    padding-top: 15px;
 }
